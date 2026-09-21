@@ -3,12 +3,16 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://www.example.com/</loc>
-    <lastmod>2026-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
     <image:image>
-      <image:loc>https://www.example.com/images/og-cover.jpg</image:loc>
-      <image:title>Aki's Jollitown Carnival Baptism and 1st Birthday invitation</image:title>
+      <image:loc>https://www.example.com/images/zoe-simeon-baptism-invitation-og.jpg</image:loc>
+      <image:title>Zoe Simeon's Baptism invitation, Sunday, October 4, 2026</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.example.com/images/zoe-simeon-baptism-portrait.webp</image:loc>
+      <image:title>Baby Zoe Simeon in a white lace baptismal dress</image:title>
     </image:image>
   </url>
 </urlset>
