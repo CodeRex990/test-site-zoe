@@ -7,12 +7,16 @@
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
     <image:image>
-      <image:loc>https://www.example.com/images/zoe-simeon-baptism-invitation-og.jpg</image:loc>
-      <image:title>Zoe Simeon's Baptism invitation, Sunday, October 4, 2026</image:title>
+      <image:loc>https://www.example.com/images/zoe-llaine-simeon-baptism-invitation-og.jpg</image:loc>
+      <image:title>Zoe Llaine Simeon's Baptism invitation, Sunday, October 4, 2026</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://www.example.com/images/zoe-simeon-baptism-portrait.webp</image:loc>
-      <image:title>Baby Zoe Simeon in a white lace baptismal dress</image:title>
+      <image:loc>https://www.example.com/images/zoe-llaine-simeon-baptism-portrait.webp</image:loc>
+      <image:title>Baby Zoe Llaine Simeon in a white lace baptismal dress</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.example.com/images/zoe-llaine-simeon-waving.gif</image:loc>
+      <image:title>Baby Zoe waving both hands</image:title>
     </image:image>
   </url>
 </urlset>
